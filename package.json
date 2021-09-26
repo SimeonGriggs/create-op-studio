@@ -1,0 +1,20 @@
+{
+  "name": "create-op-studio",
+  "version": "1.0.0",
+  "description": "CLI tool for bootstrapping new a Sanity Project with the Sanity Opinionated Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ."
+  },
+  "type": "module",
+  "author": "simeon@sanity.io",
+  "license": "ISC",
+  "bin": {
+    "create-op-studio": "bin/create-op-studio.js"
+  },
+  "dependencies": {
+    "execa": "^5.1.1",
+    "meow": "^10.1.1",
+    "path": "^0.12.7"
+  }
+}
