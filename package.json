@@ -1,6 +1,6 @@
 {
   "name": "create-op-studio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for bootstrapping new a Sanity Project with the Sanity Opinionated Studio",
   "main": "index.js",
   "scripts": {
